@@ -38,7 +38,23 @@
         <main>
             <div clas="container">
                 <h2 class="titulo-principal tusuario" id="titulo-principal">Usuario</h2>
-                <!--Todo el formulario de Usuario-->
+                <form action="/procesar-datos" method="post">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre">
+                    <br>
+                    <label for="comentarios">:</label>
+                    <code></code>
+                    <br>
+                    <label for="pais">País:</label>
+                    <select id="pais" name="pais">
+                      <option value="chile">Chile</option>
+                      <option value="argentina">Argentina</option>
+                      <!-- Agrega más opciones aquí -->
+                    </select>
+                    <br>
+                    <button type="submit">Enviar</button>
+                  </form>
+                  
                 
             </div>
         </main>

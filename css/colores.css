@@ -39,7 +39,14 @@ h2 {
 }
 ul {
     list-style-type: none;
+    display: flex;
+   
 }
+.card2 {
+    display: block;
+    margin-bottom: 20px; /* Espacio entre las tarjetas */
+}
+
 .link{
     color: #ececec;
     text-decoration: none;
@@ -129,4 +136,4 @@ main {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
-}
+}   
