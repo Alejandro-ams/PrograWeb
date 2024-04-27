@@ -1,10 +1,8 @@
 
 :root {
-    --clr-main: #cc7630;
-    --clr-main-light: #aa652d;
+    --clr-main: #1b2c3a;
     --clr-white: #ececec;
-    --clr-gray: #e2e2e2;
-    --clr-red: #961818;
+
 }
 * {
     margin: 0;
@@ -137,3 +135,7 @@ main {
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
 }   
+
+.card-text {
+    font-weight: bold;
+}
