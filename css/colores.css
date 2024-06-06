@@ -136,3 +136,9 @@ main {
 .card-text {
     font-weight: bold;
 }
+.pass{
+    display: flex;
+}
+.name{
+    display: flex;
+}
