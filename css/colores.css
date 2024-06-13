@@ -2,7 +2,7 @@
 
 
 :root {
-    --clr-main: #1a314b;
+    --clr-main: #1a293a;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
@@ -45,8 +45,8 @@ aside {
 }
 
 .logo {
-    font-weight: 400;
-    font-size: 1.3rem;
+    font-weight: 500;
+    font-size: 1.2rem;
 }
 
 .menu {
@@ -183,6 +183,7 @@ main {
     background-color: var(--clr-main);
     color: var(--clr-white);
 }
+
 /** Carrusel **/
 @media screen and (max-width: 850px) {
     .contenedor-productos {
@@ -278,11 +279,7 @@ main {
         flex-wrap: wrap;
         row-gap: 1rem;
     }
-    
-
 }
-
-
 
 @media screen and (max-width: 400px) {
     .contenedor-productos {
