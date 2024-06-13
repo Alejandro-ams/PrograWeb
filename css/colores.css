@@ -2,11 +2,11 @@
 
 
 :root {
-    --clr-main: #1b2c3a;
+    --clr-main: #1a314b;
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
-    --clr-main-light: #366185;
+    --clr-main-light: #4877a0;
 }
 * {
     margin: 0;

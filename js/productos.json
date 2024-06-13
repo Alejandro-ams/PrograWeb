@@ -1,82 +1,113 @@
 [
     {
-        "id": "Zapatillah01",
-        "titulo": "Zapatilla lona azul",
-        "imagen": "./images/Hombre/zapatilla1.jpg",
+        "id": "Retro 4.1",
+        "titulo": "Air 4 Retro Se",
+        "imagen": "./PrograWeb/images/Hombre/jordan4.1.jpg",
         "categoria": {
-            "nombre": "Zapatilla",
-            "id": "zapatilla"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 35000
+        "precio": 200.999
     },
     {
-        "id": "Zapatillah02",
-        "titulo": "Zapatilla 02",
-        "imagen": "./images/Hombre/zapatilla2.jpg",
+        "id": "Retro 4.2",
+        "titulo": "Jordan Retro 4",
+        "imagen": "./PrograWeb/images/Hombre/retro4.3.webp",
         "categoria": {
-            "nombre": "Zapatilla",
-            "id": "zapatilla"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 45000
+        "precio": 189.999
     },
     {
-        "id": "Zapatillah03",
-        "titulo": "Zapatilla 03",
-        "imagen": "./images/Hombre/zapatilla3.jpg",
+        "id": "Retro 4.3",
+        "titulo": "4 Military Black Retro",
+        "imagen": "./PrograWeb/images/Hombre/jordan4.2.webp",
         "categoria": {
-            "nombre": "Zapatilla",
-            "id": "zapatilla"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 45000
+        "precio": 203.999
     },
     {
-        "id": "Zapatillah04",
-        "titulo": "Zapatilla 04",
-        "imagen": "./images/Hombre/zapatilla4.jpg",
+        "id": "Retro 4.4",
+        "titulo": "Air jordan 4 retro",
+        "imagen": "./PrograWeb/images/Hombre/Retro4.4.webp",
         "categoria": {
-            "nombre": "Zapatilla",
-            "id": "zapatilla"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 17000
+        "precio": 162.999
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./images/Mujer/mapatilla1.jpg",
+        "id": "Retro 1",
+        "titulo": "Air Jordan 1 Mid",
+        "imagen": "./PrograWeb/images/Mujer/retro1.webp",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "abrigos"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 1000
+        "precio": 90.999
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./images/Mujer/mapatilla2.jpg",
+        "id": "Retro 1",
+        "titulo": "Air Jordan 1 High OG",
+        "imagen": "./PrograWeb/images/Mujer/retro1.2.webp",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 1000
+        "precio": 100.999
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./images/Mujer/mapatilla3.jpg",
+        "id": "Retro 4.5",
+        "titulo": "Air jordan 4 retro",
+        "imagen": "./PrograWeb/images/Mujer/retro44.webp",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 1000
+        "precio": 162.999
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./images/Mujer/mapatilla4.jpg",
+        "id": "Dunk",
+        "titulo": "Air Jordan 1 Low",
+        "imagen": "./PrograWeb/images/Mujer/dunk1.webp",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
         },
-        "precio": 1000
+        "precio": 80.999
+    },
+    {
+        "id": "Zapatilla 1",
+        "titulo": "Zapatilla 1",
+        "imagen": "./PrograWeb/images/Mujer/mapatilla1.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 47.999
+    },
+    {
+        "id": "Zapatilla 2",
+        "titulo": "Zapatilla 2",
+        "imagen": "./PrograWeb/images/Mujer/mapatilla2.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 53.899
+    },
+    {
+        "id": "Zapatilla 3",
+        "titulo": "Zapatilla 3",
+        "imagen": "./PrograWeb/images/Mujer/mapatilla3.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "zapatillas"
+        },
+        "precio": 42.999
     }
 ]
+
